@@ -1,14 +1,14 @@
 ---
-title: Introduction
+title: Introducción
 sort: 1
-contributors:
+contribuidores:
   - tbroadley
 ---
 
-A variety of interfaces are available to customize the compilation process.
-Some features overlap between interfaces, e.g. a configuration option may be
-available via a CLI flag, while others exist only through a single interface.
-The following high-level information should get you started.
+Una cantidad de interfaces estan disponibles para personalizar los procesos de compilazación.
+Algunas carateristicas se sobreponen entre las diferentes interfaces, e.g. una opción de configuración puede estar
+disponible via un CLI flag, mientas otras existen mediante una sola interfas.
+Para obtener un rendimiento de alto nivel deberias iniciar.
 
 
 ## CLI
